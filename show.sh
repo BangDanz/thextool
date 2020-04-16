@@ -536,7 +536,7 @@ then
    cd ..
    cd usr/etc
    rm -f -r bash.bashrc
-   cp -f ~/thextools/tool/cowsay/bash.bashrc ~/../usr/etc
+   cp -f ~/thextool/tool/cowsay/bash.bashrc ~/../usr/etc
    echo "Silahkan Mulai Ulang Termux Untuk Melihat Tampilan"
    sleep 1
 elif [ $pilih = "39" ]:
